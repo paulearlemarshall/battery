@@ -185,7 +185,6 @@ Unavailable metrics are shown as `n/a`.
 | `build.bat` | Build script. |
 | `scripts\smoke_test.bat` | Basic build/startup smoke test. |
 | `scripts\perf_checklist.md` | Manual performance release checklist. |
-| `main.cpp` | Earlier C++ prototype; not used by the current build. |
 
 See [ARCHITECTURE.md](ARCHITECTURE.md) for a more detailed code overview.
 

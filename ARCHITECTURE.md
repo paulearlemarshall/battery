@@ -70,7 +70,3 @@ C:\Windows\Microsoft.NET\Framework64\v4.0.30319\csc.exe ... *.cs
 ```
 
 This keeps the app easy to build on Windows machines without restoring NuGet packages.
-
-## Non-current Files
-
-`main.cpp` is an earlier C++ prototype and is not part of the current build. Keep it only if the historical reference is useful; otherwise it can be removed before the first public release.

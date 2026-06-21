@@ -18,10 +18,6 @@ BatteryTray_old_*.exe
 .codex/
 .pi/
 
-# Personal local helper scripts
-find_wt.ps1
-fix_env.ps1
-
 # AppData outputs are outside repo, listed for clarity:
 # %AppData%\BatteryTray\config.txt
 # %AppData%\BatteryTray\logs\batterytray.log
